@@ -1,6 +1,6 @@
  **This is the part of react skill test project by coding ninjas**
  
-**Adding Gif File to Readme.md** 
+
 ![Tooltip react gif](https://user-images.githubusercontent.com/86143301/216240204-b020ff0e-0a9b-401d-bd05-361c836d7e6e.gif)
 
 ***Features***
