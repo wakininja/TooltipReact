@@ -1,9 +1,12 @@
+ **This is the part of react skill test project by coding ninjas**
+ 
+**Adding Gif File to Readme.md** 
+![Tooltip react gif](https://user-images.githubusercontent.com/86143301/216240204-b020ff0e-0a9b-401d-bd05-361c836d7e6e.gif)
 
-
-![Tooltip React Video](https://user-images.githubusercontent.com/86143301/216237509-a2a5542d-79c5-46fd-be03-e7e3a727730d.mp4)
-
-
-
+***Features***
+ * On Hovering of the button I should show a Tooltip.
+ * The component will receive the position of tooltip as prop. In the Gif, we can pass the options , "top", "bottom","right"," left".
+ * According to the position the tooltip shold render at that position.
 
 
 **How To Use**
